@@ -1,6 +1,5 @@
 
 import streamlit as st
-import matplotlib.pyplot as plt
 from datetime import datetime
 
 st.set_page_config(page_title="MTG Life Counter", layout="wide")
