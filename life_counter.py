@@ -1,4 +1,4 @@
-streamlit run life_counter.py
+
 import streamlit as st
 import matplotlib.pyplot as plt
 from datetime import datetime
